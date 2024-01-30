@@ -40,7 +40,7 @@ public class Program {
 				System.out.println("Error in reservation:oh burro tem que ser no futuro");
 			}
 			else if (!checkout.after(checkIn)) {
-				System.out.println("Erro, a data de checkout tem que ser depois de checkin oh animal"); 
+				System.out.println("Erro, a data de checkout tem que ser depois de checkin oh animal jegue"); 
 			}
 			else {
 			
